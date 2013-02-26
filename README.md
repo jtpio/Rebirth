@@ -16,4 +16,4 @@ Minification is done in two steps:
 * With Closure Compiler (http://closure-compiler.appspot.com/home) to remove whitespaces and comments.
 * With JS Crush (http://www.iteral.com/jscrush/) for a big compression!
 
-Some parts of the code may not 100% optimized, but it's because JS Crush gives better results if we follow some patterns.
+Some parts of the code may not be 100% optimized, but that's because JS Crush gives better results if we follow some patterns.
